@@ -1,0 +1,17 @@
+# Local-only drafts and legacy experiments
+app-fallback.html
+FINAL-STATUS.md
+modular-files/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files and generated output
+.env
+.env.*
+node_modules/
+dist/
+coverage/

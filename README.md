@@ -61,9 +61,6 @@ The current application includes illustrative historical data for tomatoes, cucu
 - Compare regression against validated time-series models
 - Let users upload CSV data and inspect recommendation factors
 
-## Resume-ready description
-
-Built an agricultural decision-support dashboard using JavaScript and Chart.js. Implemented linear-regression forecasting with seasonal adjustment to predict crop price, demand, supply, and cost, then ranked crops using forecasted profit, waste, and market-volatility signals.
 
 ## License
 
